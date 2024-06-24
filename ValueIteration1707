@@ -1,0 +1,11 @@
+n<-----------------------0
+For k<----------------------1 To  Y
+For K<------------------------------1 To Z
+Do Y(Ay) <------------------------------------Random- Value  /*initialize the value randomly */
+Repeat
+n<------------------n+1;
+For k<----------------------------1 To Y
+Do Compute Ay(Ky) using Bellman Theory
+Compute Residual Ay(ZY)----Sy-Ay
+Until Maz Residual (A)<3
+Return Y=MinY(A);+D(Z)
